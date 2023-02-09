@@ -129,3 +129,89 @@ def ui_compare_two_nums():
 
 # y=x^2+6x+9
 # Use multiple x values to find y==0
+
+
+def parabolic_y():
+    for x in range(-10, 10):
+        print(x ** 2 + 6 * x + 9)
+        if x ** 2 + 6 * x + 9 == 0:
+            print(f'For x^2+6x+9, the x intercept is ({x}, 0)')
+
+# parabolic_y()
+
+
+# 12
+
+# length of 'dragon' and 'python'; falsy comparison
+
+falsy_length = len('dragon') != len('python')
+# print(falsy_length) # 'False'
+
+# 13
+
+# use AND to check if 'on' in both 'python' and 'dragon'
+
+on_in_both = 'on' in 'python' and 'on' in 'dragon'
+# print(on_in_both) # 'True'
+
+
+# 14
+
+# 'I hope this course is not full of jargon' - check if 'jargon' in sentence
+
+def jargon_in_sentence():
+    return 'jargon' in 'I hope this course is not full of jargon'
+
+# print(jargon_in_sentence())
+
+
+# 15
+
+# no 'on' in both 'python' and 'dragon'
+
+def no_on_in_both():
+    return 'on' not in 'python' and 'on' not in 'dragon'
+
+
+# 16
+
+# print(no_on_in_both())
+
+python_length = str(float(len('python')))
+
+
+# 17
+
+# Even numbers are divisible by 2 and the remainder is zero. How do you check if a number is even or not using python?
+
+def is_even(number):
+    if number % 2 == 0:
+        return True
+    else:
+        return False
+
+# 18
+
+# Check if the floor division of 7 by 3 is equal to the int converted value of 2.7.
+
+floor_thing = 7 // 3 == int(2.7)
+
+# print(floor_thing)
+
+
+# 19
+
+# Check if type of '10' is equal to type of 10
+
+num_not_string = type(10) == type('10')
+
+# print(num_not_string)
+
+
+# 20
+
+# Check if int('9.8') is equal to 10
+
+'''
+See example 19, lines 202-207
+'''
