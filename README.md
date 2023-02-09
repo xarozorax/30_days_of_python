@@ -34,3 +34,7 @@ Another thing to note is that I am essentially doing most of these exercises ~~a
         * will allow for better optimization and/or 'enterprisability'
 
 Xarozorax - 2023/02/07
+
+Also, any misspellings in the comments will likely be due to my copy-pasting from the 30 Days Of Python repo
+
+Xarozorax - 2023/02/09
