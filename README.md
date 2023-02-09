@@ -33,9 +33,8 @@ Another thing to note is that I am essentially doing most of these exercises ~~a
         * finally, it allows me to think of other control-flow/data strucures that 
         * will allow for better optimization and/or 'enterprisability'
 
-
-## He is learning
-
-I have started watching a video on Git and GitHub, and this **should** be my last 'erroneous' commit... maybe
-
 Xarozorax - 2023/02/07
+
+Also, any misspellings in the comments will likely be due to my copy-pasting from the 30 Days Of Python repo
+
+Xarozorax - 2023/02/09
