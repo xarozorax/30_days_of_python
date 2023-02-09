@@ -1,5 +1,3 @@
-__name__ = 'day_3_scripts'
-
 import geometry.geometry as geo
 
 '''

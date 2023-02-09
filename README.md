@@ -37,4 +37,8 @@ Xarozorax - 2023/02/07
 
 Also, any misspellings in the comments will likely be due to my copy-pasting from the 30 Days Of Python repo
 
+Additionally, something I just discovered, and the source of an oddity with the files on day_3:
+The __name__ that was in the commit before this, for the files that weren't geometry.py, were because I was trying to 
+troubleshoot what was ultimately a terminal issue, not a python issue, even though it presented as a python one.
+
 Xarozorax - 2023/02/09
