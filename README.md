@@ -1,6 +1,9 @@
 # First major GitHub project
+
 ##Xarozorax - 2023/02/04
+
 ### This 'README.MD' is going to largely be:
+
 **A documentation of my thoughts and feelings throughout the process of my 30DaysOfPython journey**
 
 **It will have 'daily' updates, and will give me a chance to give subjective updates, as opposed to the objective Git updates**
