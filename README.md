@@ -1,6 +1,6 @@
 # First major GitHub project
 
-##Xarozorax - 2023/02/04
+## Xarozorax - 2023/02/04
 
 ### This 'README.MD' is going to largely be:
 
@@ -14,7 +14,7 @@ Any other subdirectories may be made on a day-to-day basis
 
 Some may be automated
 
-##Xarozorax - 2023/02/06
+## Xarozorax - 2023/02/06
 
 
 As I have *some* experience working with programming languages, I will be utilizing features
@@ -22,7 +22,7 @@ that aren't necessarily introduced yet in the project course. This will taper of
 progress further into the project. **Note** At 02:00, 20230206, CST, I realized that a
 .MD file is... a MarkDown file. Feels pretty obvious in hindsight.
 
-##Xarozorax - 2023/02/07
+## Xarozorax - 2023/02/07
 
 
 Another thing to note is that I am essentially doing most of these exercises ~~at least~~ twice
@@ -36,7 +36,7 @@ Another thing to note is that I am essentially doing most of these exercises ~~a
         * finally, it allows me to think of other control-flow/data strucures that 
         * will allow for better optimization and/or 'enterprisability'
 
-##Xarozorax - 2023/02/09
+## Xarozorax - 2023/02/09
 
 Also, any misspellings in the comments will likely be due to my copy-pasting from the 30 Days Of Python repo
 
@@ -45,7 +45,7 @@ The __name__ that was in the commit before this, for the files that weren't geom
 troubleshoot what was ultimately a terminal issue, not a python issue, even though it presented as a python one.
 
 
-###-- Notice --
+### -- Notice --
 
 I may be... distracted... from 30DaysOfPython for a bit. This is not only due to the fact that I'm currently in the 
 middle of moving, but also because I am beginning a side-project that I've had in mind for quite some time. I've only
